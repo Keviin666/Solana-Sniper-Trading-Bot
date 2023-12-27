@@ -25,5 +25,5 @@ Token Tracker<br />
 
 ![Solana sniper bot](https://github.com/Keviin666/Solana-Sniper-Trading-Bot/assets/132532946/b01f5591-6c4f-4365-984b-2ba57c69af03)<br />
 
-Telegram: @solanasniperbots
+Telegram: @solanasniperbots<br />
 Website: Under Construction 🚧
